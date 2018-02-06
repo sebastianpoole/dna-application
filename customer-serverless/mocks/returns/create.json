@@ -1,0 +1,8 @@
+{
+  "body": "{\"email\":\"sebastian.w.poole@gmail.com\",\"orderId\":\"129290303\",\"images\":[\"hello.jpg\",\"goodbye.jpg\"]}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "seb-poole"
+    }
+  }
+}
